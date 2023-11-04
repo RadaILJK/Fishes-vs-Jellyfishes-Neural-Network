@@ -1,0 +1,7 @@
+https://www.overleaf.com/read/fbkbwdjhbgtg - ссылка на отчет
+https://colab.research.google.com/drive/17Judl7DHtI09mmHc2npZPFbUxQN9Stpj#scrollTo=Egru1hihv_QA - ссылка на колаб
+
+файл parser.py - файл для поиска картинок
+titles.py - файл с поисковыми запросами
+
+данные продублированы. Папка project_ns и project_ns.zip - одно и то же
